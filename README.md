@@ -1,4 +1,5 @@
 # SRDL project portfolio
+`All the games and simulations have been provided with samples and technical descriptions. The source codes are not provided due to confidentiality issues as per the contract`
 
 ## Water states simulation 
 ![11-115](https://github.com/user-attachments/assets/56f77ff9-6890-44bc-8bd4-772b7691b19b)
