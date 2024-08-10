@@ -97,15 +97,6 @@ Technical descriptions:
 - Used preloader to render the assets
 - Data.json to change the language
 
-## Earth's magnetic field
-
-![magnetic field](https://github.com/user-attachments/assets/cff32a6a-2271-4c28-ad9c-45c1911c532c)
-
-Technical descriptions:
-- Toggle button to control earth's magnetic field
-- Used preloader to render the assets
-- Data.json to change the language
-
 ## Power of light
 
 ![power of light](https://github.com/user-attachments/assets/1660168c-710b-485d-95f0-0f40a356f787)
